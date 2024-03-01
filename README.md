@@ -9,6 +9,8 @@
   <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Woojun-Yoon)](https://github.com/Woojun-Yoon/github-readme-stats) -->
   
   ## 🐱Tech Stack🐱
+  ### I'm noob
+  <!--
   ### Programming Language
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
     ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -38,6 +40,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
     ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+-->
   ---
   ---
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbsdnwns11)](https://solved.ac/dbsdnwns11)
