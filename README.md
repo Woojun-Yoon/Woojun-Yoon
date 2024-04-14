@@ -44,6 +44,6 @@
   ---
   ---
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbsdnwns11)](https://solved.ac/dbsdnwns11)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Woojun-Yoon&layout=compact&theme=tokyonight)](https://github.com/Woojun-Yoon/github-readme-stats)
+![Woojun-Yoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Woojun-Yoon&hide=stars,contribs&count_private=true&show_icons=true&&theme=dark)
   ---
 </div>
